@@ -1,4 +1,4 @@
 ---
 title: CTBA files
-description: files associated with BTBA class
+description: files associated with CTBA class
 ---
